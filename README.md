@@ -18,3 +18,4 @@ My target users are anyone who are on a diet or wants to know their body mass in
 
 # Finish Product
 <img width="1440" alt="Screen Shot 2021-03-18 at 1 59 43 AM" src="https://user-images.githubusercontent.com/55165183/111581391-8a949b00-878f-11eb-92ca-9ee98e8c0dfe.png">
+<img width="1440" alt="Screen Shot 2021-03-18 at 1 59 51 AM" src="https://user-images.githubusercontent.com/55165183/111581510-c0398400-878f-11eb-8655-eb3418c5b7e2.png">
