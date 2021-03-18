@@ -17,3 +17,4 @@ My target users are anyone who are on a diet or wants to know their body mass in
 - Basic UI Rendering: UIKit
 
 # Finish Product
+<img width="1440" alt="Screen Shot 2021-03-18 at 1 59 43 AM" src="https://user-images.githubusercontent.com/55165183/111581391-8a949b00-878f-11eb-92ca-9ee98e8c0dfe.png">
